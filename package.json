@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course-bnk",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thgbianeck/js-tdd-course-bnk.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Thiago Bianeck <thiagobianeck@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thgbianeck/js-tdd-course-bnk/issues"
+  },
+  "homepage": "https://github.com/thgbianeck/js-tdd-course-bnk#readme"
+}
